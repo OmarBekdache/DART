@@ -179,12 +179,11 @@ has been assigned to the original DART code.
 ## Citation
 
 ```bibtex
-@InProceedings{Bekdache_2026_CVPR,
-  author    = {Bekdache, Omar and Shanbhag, Naresh},
-  title     = {DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-  month     = {June},
-  year      = {2026},
-  pages     = {3301--3311}
+@inproceedings{bekdache2026dart,
+  title={DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning},
+  author={Bekdache, Omar and Shanbhag, Naresh},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3301--3311},
+  year={2026}
 }
 ```
