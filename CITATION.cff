@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the DART paper below."
+title: "DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning"
+type: software
+authors:
+  - family-names: Bekdache
+    given-names: Omar
+  - family-names: Shanbhag
+    given-names: Naresh
+repository-code: "https://github.com/OmarBekdache/DART"
+url: "https://openaccess.thecvf.com/content/CVPR2026W/FedVision/html/Bekdache_DART_A_Server-side_Plug-in_for_Resource-efficient_Robust_Federated_Learning_CVPRW_2026_paper.html"
+preferred-citation:
+  type: conference-paper
+  title: "DART: A Server-side Plug-in for Resource-efficient Robust Federated Learning"
+  authors:
+    - family-names: Bekdache
+      given-names: Omar
+    - family-names: Shanbhag
+      given-names: Naresh
+  collection-title: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+  year: 2026
+  month: 6
+  start: "3301"
+  end: "3311"
+  url: "https://openaccess.thecvf.com/content/CVPR2026W/FedVision/html/Bekdache_DART_A_Server-side_Plug-in_for_Resource-efficient_Robust_Federated_Learning_CVPRW_2026_paper.html"
