@@ -110,7 +110,7 @@ loss. Client optimizers and learning-rate schedules retain the research code's
 behavior.
 
 For the complete main ResNet-18 comparison across Dirichlet parameters
-`100, 10, 1, 0.1` and seeds `0–4`:
+`100, 10, 1, 0.1`:
 
 ```bash
 bash scripts/reproduce.sh data results
